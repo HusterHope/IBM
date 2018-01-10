@@ -1,2 +1,2 @@
 # IBM
-Image-Based Modeling. Papers and books.
+Image-Based Modeling. Papers, books, and open source systems.
