@@ -1,2 +1,2 @@
 # IBM
-Image-Based Modeling. Papers, books, and open source systems.
+learning multi-view indoor scene reconstruction. Papers, books, and open source systems.
